@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'configstore'
-    spec.version                  = '1.0.0-First'
+    spec.version                  = '1.1.1-testing'
     spec.homepage                 = 'https://www.makemytrip.com'
-    spec.source                   = { :http=> 'http://localhost:8081/repository/ios-binaries/com/gommt/configstore/1.0.0-First/configstore-1.0.0-First.xcframework.zip'}
+    spec.source                   = { :http=> 'https://nexus.go-mmt.com/repository/ios-binaries/configstore/configstore/1.1.1-testing/configstore-1.1.1-testing-static.xcframework.zip'}
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'ConfigStore to read configs, run AB'
