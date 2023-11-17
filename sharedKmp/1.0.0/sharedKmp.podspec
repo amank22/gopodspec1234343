@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'sharedKmp'
-    spec.version                  = '2.0.0'
+    spec.version                  = '1.0.0'
     spec.homepage                 = 'https://www.makemytrip.com'
     spec.source                   = { :http=> 'https://nexus.go-mmt.com/repository/ios-binaries/sharedKmp/sharedKmp/1.0.0/sharedKmp-1.0.0-static.xcframework.zip'}
     spec.authors                  = ''
